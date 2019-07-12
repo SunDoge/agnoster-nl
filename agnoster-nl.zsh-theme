@@ -83,7 +83,7 @@ prompt_end() {
   CURRENT_BG=''
 
   #Adds the new line and ➜ as the start character.
-  printf "\n❯ "
+  printf "\n❯"
 }
 
 ### Prompt components
